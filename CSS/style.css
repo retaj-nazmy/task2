@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(26, 17, 81);
+    font-family: "Lobster Two", sans-serif;
+}
+
+header,
+footer,
+form,
+.table,
+#blog,
+#i,
+.main {
+    background-color: rgb(180, 174, 174);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px auto;
+    max-width: 1000px;
+    border: 2px groove whitesmoke;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.3);
+}
+
+input,
+textarea {
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px;
+    width: 75%;
+}
+
+table {
+    margin: 30px auto;
+    width: 90%;
+    background-color: rgb(223, 223, 223);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+    border: 1px solid rgb(26, 17, 81);
+    border-radius: 10px;
+    padding: 12px 16px;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(110, 107, 107);
+    font-weight: bold;
+}
+
+img {
+    border-radius: 5px;
+}
+
+.libertinus-math-regular {
+    font-family: "Libertinus Math", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lobster-two-regular {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.lobster-two-bold {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.lobster-two-regular-italic {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.lobster-two-bold-italic {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
